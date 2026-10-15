@@ -1,0 +1,1 @@
+{"name":"kick-the-kol","version":"1.0.1","private":true,"type":"module","engines":{"node":"22.x"},"scripts":{"test":"node --test payment.test.mjs deployment.test.mjs","build":"node build.mjs && npm test"}}
